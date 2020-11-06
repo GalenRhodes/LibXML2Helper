@@ -47,8 +47,9 @@ typedef struct _LibXmlSAXHandler {
 
 typedef struct _LibXmlSAXUserData {
     LibXmlSAXHandler handler;
-    void *parser;
-} LibXmlSAXUserData;
+    xmlParserCtxtPtr ctx;
+    void             *parser;
+}            LibXmlSAXUserData;
 
 PG_EXPORT void addErrorHandlers(LibXmlSAXHandler *handler);
 

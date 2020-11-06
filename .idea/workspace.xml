@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27ec9ed5-eca6-4eed-88ca-48ac836b4a15" name="Default Changelist" comment="" />
+    <list default="true" id="27ec9ed5-eca6-4eed-88ca-48ac836b4a15" name="Default Changelist" comment="Initial Commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/LibXML2Helper/include/LibXML2Helper.h" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/LibXML2Helper/include/LibXML2Helper.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="macos_macos_x86_64" />
   <component name="FileTemplateManagerImpl">
@@ -16,10 +24,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zesyahql" />
   </component>
   <component name="ProjectId" id="1jsmh04BiOlEnu2rWVBv1oW7Q3F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="flattenPackages" value="true" />
@@ -63,11 +81,36 @@
       <updated>1604601288677</updated>
       <workItem from="1604601289901" duration="701000" />
       <workItem from="1604602133140" duration="1167000" />
-      <workItem from="1604607401326" duration="2238000" />
+      <workItem from="1604607401326" duration="4383000" />
+      <workItem from="1604665708934" duration="2983000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1604610161371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604610161371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit." />
   </component>
 </project>
